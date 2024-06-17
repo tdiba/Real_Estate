@@ -1,6 +1,15 @@
 # Real_Estate
 
-## Real Estate Market Analysis Report Summary
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Market Trends Over Time](#market-trends-over-time)
+- [Price Fluctuations](#price-fluctuations)
+- [Impact of Location on Property Values](#impact-of-location-on-property-values)
+- [Size vs. Price Analysis](#size-vs-price-analysis)
+- [Economic Indicators Correlation](#economic-indicators-correlation)
+- [Conclusion](#conclusion)
+
 
 ### 1. Introduction
 
